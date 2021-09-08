@@ -1,0 +1,1 @@
+{"version":3,"sources":["white.05f515bf312ea93c8062ebd610937662.css"],"names":[],"mappings":"AAAA,KACE,eAAgB,CAChB,UACF,CACA,KACE,UAAW,CACX,oBAAqB,CACrB,kBACF","file":"white.05f515bf312ea93c8062ebd610937662.css","sourcesContent":["body {\n  background: #fff;\n  color: #000;\n}\n.btn {\n  color: #fff;\n  border-color: #1890ff;\n  background: #1890ff;\n}\n"]}
